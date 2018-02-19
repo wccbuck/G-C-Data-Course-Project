@@ -6,6 +6,7 @@ This script takes the "Human Activity Recognition Using Smartphones" data set fr
 After running the script, you may find the tidy means data frame named "tidyMeans" in your environment, or by running:
 
 > tidyMeans = read.table("tidyMeans.txt", header=TRUE)
+
 > View(tidyMeans)
 
 The run_analysis.R script works by: 
